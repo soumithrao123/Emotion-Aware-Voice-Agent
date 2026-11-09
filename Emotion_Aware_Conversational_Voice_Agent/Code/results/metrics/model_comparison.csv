@@ -1,0 +1,3 @@
+model,accuracy,macro_f1
+Random Forest,0.625,0.616
+XGBoost,0.719,0.709
